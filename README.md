@@ -4,7 +4,7 @@
 ### I am a Software Devekoper....
 
 - #### 🔭 I’m currently working on my coding skills and a Student at ALX.
-- #### 👯 I’m open to collaborate on Software Engineering projects.
+- #### 👯 I’m open to collaborate on Any Software Engineering projects.
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mshibo3&label=Profile%20views&color=0e75b6&style=flat" alt="mshibo3" /> </p>
